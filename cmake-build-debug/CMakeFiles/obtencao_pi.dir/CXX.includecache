@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/brincadeiras_2019/obtencao_pi/Pi.hpp
+iostream
+-
+math.h
+-
+
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/brincadeiras_2019/obtencao_pi/main.cpp
+Pi.hpp
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/brincadeiras_2019/obtencao_pi/Pi.hpp
+

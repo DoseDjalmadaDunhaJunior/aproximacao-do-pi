@@ -1,0 +1,3 @@
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/brincadeiras_2019/obtencao_pi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/brincadeiras_2019/obtencao_pi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/brincadeiras_2019/obtencao_pi/cmake-build-debug/CMakeFiles/obtencao_pi.dir
